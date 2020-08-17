@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guessTheNumber"
+    }
+  },
+  "defaultProject": "guessTheNumber",
+  "cli": {
+    "analytics": "17dd1d36-a13e-45e0-a62f-5289f0730fbf"
+  }
 }
